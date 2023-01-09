@@ -52,13 +52,16 @@ public void the_user_clicks_data_structures_drop_down() {
 
 @Then("See {int} different Data structures")
 public void see_different_data_structures(Integer int1) {
-    
+  int items1=  HP.getItemsinDD();
+  assertEquals(items1, int1);
 }
 
-@When("The user clicks any of the {string} buttons below the data structures")
-public void the_user_clicks_any_of_the_buttons_below_the_data_structures(String string) {
-    
+@When("The user clicks any of the Get Started buttons below the data structures")
+public void the_user_clicks_any_of_the_get_started_buttons_below_the_data_structures() {
+    HP.ClickAnyGSlink();
+	//HP.ClickGS();
 }
+
 
 @Then("It should alert the user with a message {string}")
 public void it_should_alert_the_user_with_a_message(String error) {
@@ -68,21 +71,27 @@ public void it_should_alert_the_user_with_a_message(String error) {
 
 @When("The user selects any data structures item from the drop down without Sign in.")
 public void the_user_selects_any_data_structures_item_from_the_drop_down_without_sign_in() {
-   
+	HP.clickDataStrDD();
+	HP.ClickAnyDDlink();
+   //HP.ClickStackLink();
+}
+@When("The user clicks Sign in link")
+public void the_user_clicks_sign_in_link() {
+    HP.ClickSignin();
+}
+@When("The user clicks Register link")
+public void the_user_clicks_register_link() {
+    HP.ClickRegister();
 }
 
-@When("The user clicks {string}")
-public void the_user_clicks(String string) {
-   
+@Then("The user should be redirected to Sign in page as {string}")
+public void the_user_should_be_redirected_to_sign_in_page_as(String signintittle) {
+	assertEquals(driver.getTitle(),signintittle);
 }
 
-@Then("The user should be redirected to Sign in page")
-public void the_user_should_be_redirected_to_sign_in_page() {
-    
+@Then("The user should be redirected to Register form as {string}")
+public void the_user_should_be_redirected_to_register_form_as(String registertittle) {
+	assertEquals(driver.getTitle(),registertittle);
 }
 
-@Then("The user should be redirected to Register form")
-public void the_user_should_be_redirected_to_register_form() {
-    
-}
 }

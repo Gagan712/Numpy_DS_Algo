@@ -35,17 +35,12 @@ public class readXLfile {
 			}
 			
 		}
-		String user = testdata[1][0];
-		System.out.println(user);
 		return testdata;
+		
 		
 }
 
 	
-	public static void main(String[] args) throws EncryptedDocumentException, IOException {
-		readXLfile rxf = new readXLfile();
-		rxf.getData("registr");
-	}
-
+	
 }
 

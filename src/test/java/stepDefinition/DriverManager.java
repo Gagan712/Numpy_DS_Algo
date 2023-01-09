@@ -10,7 +10,7 @@ public class DriverManager {
 	public static WebDriver driver;
 
 	public static void initializeDriver() {
-		WebDriverManager.chromedriver().browserVersion("107.0.0").setup();
+		WebDriverManager.chromedriver().browserVersion("108.0.5359.125").setup();
 		driver = new ChromeDriver();
 	}
 

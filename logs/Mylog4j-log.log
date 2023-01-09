@@ -1,0 +1,909 @@
+[INFO ]2023-01-05 06:38:42.097 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 06:38:42.392 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 06:38:42.871 [main]logger-User is on Home Page
+[INFO ]2023-01-05 06:44:01.100 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 06:44:01.400 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 06:44:01.799 [main]logger-User is on Home Page
+[INFO ]2023-01-05 07:14:41.054 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 07:14:41.354 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 07:14:41.432 [main]logger-User clicks on get started button
+[INFO ]2023-01-05 07:14:41.764 [main]logger-User is on Home Page
+[INFO ]2023-01-05 07:14:41.869 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-05 07:14:41.939 [main]logger-verify the error message
+[INFO ]2023-01-05 16:49:11.873 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 16:49:12.181 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 16:49:12.260 [main]logger-User clicks on get started button
+[INFO ]2023-01-05 16:49:12.681 [main]logger-User is on Home Page
+[INFO ]2023-01-05 16:49:12.772 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-05 16:49:19.486 [main]logger-no of items in dropdown0
+[INFO ]2023-01-05 16:55:08.055 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 16:55:08.365 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-05 16:55:08.457 [main]logger-User clicks on get started button
+[INFO ]2023-01-05 16:55:09.334 [main]logger-User is on Home Page
+[INFO ]2023-01-05 16:55:09.460 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-05 16:55:09.565 [main]logger-no of items in dropdown6
+[INFO ]2023-01-05 16:55:09.566 [main]logger-verify the error message
+[INFO ]2023-01-06 06:42:41.864 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 06:42:42.175 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 06:42:42.253 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 06:42:42.624 [main]logger-User is on Home Page
+[INFO ]2023-01-06 06:42:42.744 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 06:42:42.837 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 06:42:42.837 [main]logger-Click on any get started button
+[INFO ]2023-01-06 06:42:43.042 [main]logger-verify the error message
+[WARN ]2023-01-06 06:42:43.095 [main]logger-You are not logged in
+[INFO ]2023-01-06 06:42:43.096 [main]logger-verify the error message
+[WARN ]2023-01-06 06:42:43.124 [main]logger-You are not logged in
+[INFO ]2023-01-06 06:42:43.125 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:34:05.486 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:34:05.774 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:34:05.850 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:34:06.186 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:34:06.294 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:34:06.380 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:34:06.380 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:34:06.585 [main]logger-verify the error message
+[WARN ]2023-01-06 07:34:06.632 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:34:06.632 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:36:39.530 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:36:40.260 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:36:40.342 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:36:40.715 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:36:40.833 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:36:40.936 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:36:40.937 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:36:41.161 [main]logger-verify the error message
+[WARN ]2023-01-06 07:36:41.213 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:36:41.214 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:36:41.275 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:36:41.486 [main]logger-verify the error message
+[WARN ]2023-01-06 07:36:41.529 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:36:41.530 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:36:41.727 [main]logger-Click on Register link
+[INFO ]2023-01-06 07:38:57.126 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:38:57.424 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:38:57.499 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:38:57.794 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:38:57.879 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:38:57.977 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:38:57.977 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:38:58.169 [main]logger-verify the error message
+[WARN ]2023-01-06 07:38:58.207 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:38:58.208 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:38:58.257 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:38:58.447 [main]logger-verify the error message
+[WARN ]2023-01-06 07:38:58.481 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:38:58.482 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:38:58.636 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 07:38:58.853 [main]logger-Click on Register link
+[INFO ]2023-01-06 07:41:24.008 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:41:24.318 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:41:24.391 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:41:24.731 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:41:24.827 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:41:24.915 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:41:24.915 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:41:25.118 [main]logger-verify the error message
+[WARN ]2023-01-06 07:41:25.158 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:41:25.158 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:41:25.212 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:41:25.418 [main]logger-verify the error message
+[WARN ]2023-01-06 07:41:25.457 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:41:25.458 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:41:25.649 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 07:41:25.885 [main]logger-Click on Register link
+[INFO ]2023-01-06 07:42:39.457 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:42:39.960 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:42:40.040 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:42:40.600 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:42:40.763 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:42:40.874 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:42:40.875 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:42:41.090 [main]logger-verify the error message
+[WARN ]2023-01-06 07:42:41.142 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:42:41.142 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:42:41.204 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:42:41.518 [main]logger-verify the error message
+[WARN ]2023-01-06 07:42:41.555 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:42:41.556 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:42:41.803 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 07:42:42.030 [main]logger-Click on Register link
+[INFO ]2023-01-06 07:48:05.325 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:48:05.781 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 07:48:05.929 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 07:48:06.692 [main]logger-User is on Home Page
+[INFO ]2023-01-06 07:48:06.842 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:48:06.955 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 07:48:06.961 [main]logger-Click on any get started button
+[INFO ]2023-01-06 07:48:07.216 [main]logger-verify the error message
+[WARN ]2023-01-06 07:48:07.270 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:48:07.271 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 07:48:07.331 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 07:48:07.585 [main]logger-verify the error message
+[WARN ]2023-01-06 07:48:07.628 [main]logger-You are not logged in
+[INFO ]2023-01-06 07:48:07.629 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 07:48:07.825 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 07:48:08.041 [main]logger-Click on Register link
+[INFO ]2023-01-06 09:21:41.659 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 09:21:42.003 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 09:21:42.108 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 09:21:42.532 [main]logger-User is on Home Page
+[INFO ]2023-01-06 09:21:42.646 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 09:21:42.757 [main]logger-no of items in dropdown6
+[INFO ]2023-01-06 09:21:42.760 [main]logger-Click on any get started button
+[INFO ]2023-01-06 09:21:42.979 [main]logger-verify the error message
+[WARN ]2023-01-06 09:21:43.027 [main]logger-You are not logged in
+[INFO ]2023-01-06 09:21:43.028 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 09:21:43.087 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 09:21:43.298 [main]logger-verify the error message
+[WARN ]2023-01-06 09:21:43.336 [main]logger-You are not logged in
+[INFO ]2023-01-06 09:21:43.338 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 09:21:43.511 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 09:21:43.745 [main]logger-Click on Register link
+[INFO ]2023-01-06 13:20:10.663 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 13:20:10.970 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 13:20:11.067 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 13:20:11.450 [main]logger-User is on Home Page
+[INFO ]2023-01-06 13:20:11.558 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 13:20:11.650 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-06 13:20:11.922 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:12.168 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:12.444 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:12.712 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:12.978 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:13.253 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:20:13.527 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:20:13.528 [main]logger-verify the error message
+[WARN ]2023-01-06 13:20:13.557 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:20:13.558 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 13:20:13.623 [main]logger-Click on stack link in dropdown
+[INFO ]2023-01-06 13:20:13.884 [main]logger-verify the error message
+[WARN ]2023-01-06 13:20:13.927 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:20:13.928 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 13:20:14.157 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 13:20:14.381 [main]logger-Click on Register link
+[INFO ]2023-01-06 13:30:37.880 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 13:30:38.173 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 13:30:38.260 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 13:30:38.660 [main]logger-User is on Home Page
+[INFO ]2023-01-06 13:30:38.759 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 13:30:38.845 [main]logger-no of items in dropdown 6
+[INFO ]2023-01-06 13:30:38.864 [main]logger-no of get started buttons 7
+[WARN ]2023-01-06 13:30:39.112 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:39.364 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:39.601 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:39.830 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:40.081 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:40.342 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:40.599 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:30:40.602 [main]logger-verify the error message
+[WARN ]2023-01-06 13:30:40.630 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:30:40.631 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 13:30:40.725 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-06 13:30:40.978 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:41.211 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:41.439 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:41.666 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:41.904 [main]logger-You are not logged in
+[WARN ]2023-01-06 13:30:42.143 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:30:42.143 [main]logger-verify the error message
+[WARN ]2023-01-06 13:30:42.171 [main]logger-You are not logged in
+[INFO ]2023-01-06 13:30:42.172 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 13:30:42.364 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 13:30:42.576 [main]logger-Click on Register link
+[INFO ]2023-01-06 15:28:43.542 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:44.310 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:45.194 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:45.320 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:45.693 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:45.805 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:46.149 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:46.268 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:46.637 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:46.751 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:47.116 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:47.239 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:28:47.613 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:28:47.729 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:17.957 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:18.694 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:19.520 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:19.689 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:20.061 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:20.178 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:20.533 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:20.656 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:21.006 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:21.128 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:21.504 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:21.636 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:33:21.985 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:33:22.115 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:03.532 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:04.109 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:04.309 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:04.463 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:04.795 [main]logger-verify the error message
+[WARN ]2023-01-06 15:43:04.835 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:43:04.848 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:04.928 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:05.074 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:05.225 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:05.620 [main]logger-verify the error message
+[WARN ]2023-01-06 15:43:05.657 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:43:05.667 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:05.765 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:05.952 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:06.116 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:06.454 [main]logger-verify the error message
+[WARN ]2023-01-06 15:43:06.490 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:43:06.499 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:06.600 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:06.779 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:06.946 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:07.260 [main]logger-verify the error message
+[WARN ]2023-01-06 15:43:07.296 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:43:07.305 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:07.406 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:07.568 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:07.714 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:07.917 [main]logger-verify the error message
+[INFO ]2023-01-06 15:43:18.615 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:18.750 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:18.938 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:19.090 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:19.319 [main]logger-verify the error message
+[INFO ]2023-01-06 15:43:29.732 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:43:29.886 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:43:30.062 [main]logger-Enter password
+[INFO ]2023-01-06 15:43:30.226 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:43:30.458 [main]logger-verify the error message
+[INFO ]2023-01-06 15:46:29.831 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 15:46:30.303 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 15:46:30.417 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 15:46:30.953 [main]logger-User is on Home Page
+[INFO ]2023-01-06 15:46:31.083 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 15:46:31.194 [main]logger-no of items in dropdown 6
+[INFO ]2023-01-06 15:46:31.219 [main]logger-no of get started buttons 7
+[WARN ]2023-01-06 15:46:31.565 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:32.029 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:32.307 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:32.596 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:32.959 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:33.251 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:33.532 [main]logger-You are not logged in
+[INFO ]2023-01-06 15:46:33.533 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:33.559 [main]logger-You are not logged in
+[INFO ]2023-01-06 15:46:33.560 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 15:46:33.649 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-06 15:46:33.959 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:34.197 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:34.474 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:34.727 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:34.961 [main]logger-You are not logged in
+[WARN ]2023-01-06 15:46:35.242 [main]logger-You are not logged in
+[INFO ]2023-01-06 15:46:35.243 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:35.269 [main]logger-You are not logged in
+[INFO ]2023-01-06 15:46:35.270 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 15:46:35.528 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 15:46:35.753 [main]logger-Click on Register link
+[INFO ]2023-01-06 15:46:35.995 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:36.165 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:36.339 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:36.503 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:36.828 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:36.872 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:46:36.883 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:37.007 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:37.155 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:37.299 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:37.591 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:37.621 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:46:37.633 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:37.808 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:37.982 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:38.155 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:38.477 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:38.512 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:46:38.522 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:38.652 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:38.835 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:38.992 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:39.333 [main]logger-verify the error message
+[WARN ]2023-01-06 15:46:39.368 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 15:46:39.380 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:39.490 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:39.653 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:39.790 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:39.983 [main]logger-verify the error message
+[INFO ]2023-01-06 15:46:50.653 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:46:50.776 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:46:50.951 [main]logger-Enter password
+[INFO ]2023-01-06 15:46:51.102 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:46:51.340 [main]logger-verify the error message
+[INFO ]2023-01-06 15:47:01.719 [main]logger-User is on Register Page
+[INFO ]2023-01-06 15:47:01.924 [main]logger-Enter User Name
+[INFO ]2023-01-06 15:47:02.095 [main]logger-Enter password
+[INFO ]2023-01-06 15:47:02.255 [main]logger-Enter confirm password
+[INFO ]2023-01-06 15:47:02.482 [main]logger-verify the error message
+[INFO ]2023-01-06 16:47:13.893 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:14.340 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:14.440 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:14.610 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:14.759 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:14.916 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:15.024 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:15.162 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:15.305 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:15.463 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:15.552 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:15.693 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:15.831 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:15.983 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:16.071 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:16.216 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:16.353 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:16.506 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:16.596 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:16.728 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:16.862 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:17.001 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:17.090 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:17.226 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:17.359 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:47:17.514 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:47:17.617 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:47:17.750 [main]logger-Enter password
+[INFO ]2023-01-06 16:47:17.889 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:58:17.378 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:58:17.987 [main]logger-verify the error message
+[WARN ]2023-01-06 16:58:18.039 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 16:58:18.056 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:58:18.171 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:58:18.319 [main]logger-Enter password
+[INFO ]2023-01-06 16:58:18.466 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:58:18.756 [main]logger-verify the error message
+[WARN ]2023-01-06 16:58:18.793 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 16:58:18.803 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:58:18.883 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:58:19.030 [main]logger-Enter password
+[INFO ]2023-01-06 16:58:19.178 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:58:19.494 [main]logger-verify the error message
+[WARN ]2023-01-06 16:58:19.525 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 16:58:19.533 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:58:19.623 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:58:19.802 [main]logger-Enter password
+[INFO ]2023-01-06 16:58:19.945 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:58:20.258 [main]logger-verify the error message
+[WARN ]2023-01-06 16:58:20.295 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 16:58:20.304 [main]logger-User is on Register Page
+[INFO ]2023-01-06 16:58:20.414 [main]logger-Enter User Name
+[INFO ]2023-01-06 16:58:20.596 [main]logger-Enter password
+[INFO ]2023-01-06 16:58:20.750 [main]logger-Enter confirm password
+[INFO ]2023-01-06 16:58:21.069 [main]logger-verify the error message
+[WARN ]2023-01-06 16:58:21.107 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:04:36.996 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:37.524 [main]logger-verify the error message
+[WARN ]2023-01-06 17:04:37.584 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:04:37.647 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:37.762 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:37.849 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:38.021 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:04:38.171 [main]logger-Enter password
+[INFO ]2023-01-06 17:04:38.314 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:04:38.618 [main]logger-verify the error message
+[WARN ]2023-01-06 17:04:38.655 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:04:38.667 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:38.802 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:04:38.975 [main]logger-Enter password
+[INFO ]2023-01-06 17:04:39.149 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:04:39.457 [main]logger-verify the error message
+[WARN ]2023-01-06 17:04:39.496 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:04:39.505 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:39.615 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:04:39.796 [main]logger-Enter password
+[INFO ]2023-01-06 17:04:39.945 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:04:40.249 [main]logger-verify the error message
+[WARN ]2023-01-06 17:04:40.280 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:04:40.289 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:04:40.379 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:04:40.532 [main]logger-Enter password
+[INFO ]2023-01-06 17:04:40.667 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:04:40.964 [main]logger-verify the error message
+[WARN ]2023-01-06 17:04:40.994 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:19:10.862 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:12.091 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:12.161 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:19:12.185 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:12.321 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:12.568 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:12.618 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:19:12.629 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:12.723 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:12.905 [main]logger-Enter password
+[INFO ]2023-01-06 17:19:13.144 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:13.196 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:19:13.208 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:13.321 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:13.498 [main]logger-Enter password
+[INFO ]2023-01-06 17:19:13.656 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:19:13.974 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:14.014 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:19:14.024 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:14.117 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:14.295 [main]logger-Enter password
+[INFO ]2023-01-06 17:19:14.446 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:19:14.768 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:14.805 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:19:14.815 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:14.911 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:15.091 [main]logger-Enter password
+[INFO ]2023-01-06 17:19:15.244 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:19:15.534 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:15.565 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:19:15.576 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:19:15.669 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:19:15.822 [main]logger-Enter password
+[INFO ]2023-01-06 17:19:15.957 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:19:16.252 [main]logger-verify the error message
+[WARN ]2023-01-06 17:19:16.283 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:25:47.333 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:47.848 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:47.935 [main]logger-verify the warn message
+[WARN ]2023-01-06 17:25:47.992 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:25:48.009 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:48.125 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:48.270 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:48.334 [main]logger-verify the warn message
+[WARN ]2023-01-06 17:25:48.373 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:25:48.385 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:48.461 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:48.608 [main]logger-Enter password
+[INFO ]2023-01-06 17:25:48.751 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:48.814 [main]logger-verify the warn message
+[WARN ]2023-01-06 17:25:48.848 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 17:25:48.858 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:48.951 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:49.097 [main]logger-Enter password
+[INFO ]2023-01-06 17:25:49.245 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:25:49.388 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:49.539 [main]logger-verify the error message
+[WARN ]2023-01-06 17:25:49.582 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:25:49.591 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:49.672 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:49.823 [main]logger-Enter password
+[INFO ]2023-01-06 17:25:49.978 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:25:50.129 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:50.312 [main]logger-verify the error message
+[WARN ]2023-01-06 17:25:50.342 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:25:50.351 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:50.435 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:50.593 [main]logger-Enter password
+[INFO ]2023-01-06 17:25:50.737 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:25:50.882 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:51.041 [main]logger-verify the error message
+[WARN ]2023-01-06 17:25:51.070 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 17:25:51.079 [main]logger-User is on Register Page
+[INFO ]2023-01-06 17:25:51.168 [main]logger-Enter User Name
+[INFO ]2023-01-06 17:25:51.317 [main]logger-Enter password
+[INFO ]2023-01-06 17:25:51.462 [main]logger-Enter confirm password
+[INFO ]2023-01-06 17:25:51.597 [main]logger-Click Register Button
+[INFO ]2023-01-06 17:25:51.739 [main]logger-verify the error message
+[WARN ]2023-01-06 17:25:51.768 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 19:04:34.555 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 19:04:34.982 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-06 19:04:35.106 [main]logger-User clicks on get started button
+[INFO ]2023-01-06 19:04:35.737 [main]logger-User is on Home Page
+[INFO ]2023-01-06 19:04:35.849 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 19:04:35.938 [main]logger-no of items in dropdown 6
+[INFO ]2023-01-06 19:04:35.957 [main]logger-no of get started buttons 7
+[WARN ]2023-01-06 19:04:36.216 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:36.530 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:36.852 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:37.113 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:37.400 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:37.660 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:37.895 [main]logger-You are not logged in
+[INFO ]2023-01-06 19:04:37.896 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:37.921 [main]logger-You are not logged in
+[INFO ]2023-01-06 19:04:37.922 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-06 19:04:37.996 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-06 19:04:38.224 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:38.422 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:38.617 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:38.833 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:39.037 [main]logger-You are not logged in
+[WARN ]2023-01-06 19:04:39.229 [main]logger-You are not logged in
+[INFO ]2023-01-06 19:04:39.230 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:39.255 [main]logger-You are not logged in
+[INFO ]2023-01-06 19:04:39.257 [main]logger-Click on Sign in link
+[INFO ]2023-01-06 19:04:39.451 [main]logger-User go back on Home Page
+[INFO ]2023-01-06 19:04:39.671 [main]logger-Click on Register link
+[INFO ]2023-01-06 19:04:39.867 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:39.954 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:40.049 [main]logger-verify the warn message
+[WARN ]2023-01-06 19:04:40.100 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 19:04:40.119 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:40.208 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:40.368 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:40.431 [main]logger-verify the warn message
+[WARN ]2023-01-06 19:04:40.476 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 19:04:40.485 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:40.595 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:40.732 [main]logger-Enter password
+[INFO ]2023-01-06 19:04:40.878 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:40.936 [main]logger-verify the warn message
+[WARN ]2023-01-06 19:04:40.975 [main]logger-Please fill out this field.
+[INFO ]2023-01-06 19:04:40.986 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:41.081 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:41.228 [main]logger-Enter password
+[INFO ]2023-01-06 19:04:41.369 [main]logger-Enter confirm password
+[INFO ]2023-01-06 19:04:41.502 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:41.678 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:41.713 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 19:04:41.724 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:41.803 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:41.961 [main]logger-Enter password
+[INFO ]2023-01-06 19:04:42.106 [main]logger-Enter confirm password
+[INFO ]2023-01-06 19:04:42.264 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:42.469 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:42.499 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 19:04:42.509 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:42.601 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:42.756 [main]logger-Enter password
+[INFO ]2023-01-06 19:04:42.913 [main]logger-Enter confirm password
+[INFO ]2023-01-06 19:04:43.064 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:43.232 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:43.265 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-06 19:04:43.277 [main]logger-User is on Register Page
+[INFO ]2023-01-06 19:04:43.365 [main]logger-Enter User Name
+[INFO ]2023-01-06 19:04:43.517 [main]logger-Enter password
+[INFO ]2023-01-06 19:04:43.653 [main]logger-Enter confirm password
+[INFO ]2023-01-06 19:04:43.806 [main]logger-Click Register Button
+[INFO ]2023-01-06 19:04:43.958 [main]logger-verify the error message
+[WARN ]2023-01-06 19:04:43.990 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-07 15:04:07.977 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-07 15:04:08.333 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-07 15:04:08.427 [main]logger-User clicks on get started button
+[INFO ]2023-01-07 15:04:08.885 [main]logger-User is on Home Page
+[INFO ]2023-01-07 15:04:09.053 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-07 15:04:09.142 [main]logger-no of items in dropdown 6
+[INFO ]2023-01-07 15:04:09.161 [main]logger-no of get started buttons 7
+[WARN ]2023-01-07 15:04:09.424 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:09.688 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:09.973 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:10.391 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:10.666 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:10.947 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:11.227 [main]logger-You are not logged in
+[INFO ]2023-01-07 15:04:11.229 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:11.258 [main]logger-You are not logged in
+[INFO ]2023-01-07 15:04:11.259 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-07 15:04:11.349 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-07 15:04:11.597 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:11.865 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:12.102 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:12.326 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:12.603 [main]logger-You are not logged in
+[WARN ]2023-01-07 15:04:12.864 [main]logger-You are not logged in
+[INFO ]2023-01-07 15:04:12.865 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:12.892 [main]logger-You are not logged in
+[INFO ]2023-01-07 15:04:12.894 [main]logger-Click on Sign in link
+[INFO ]2023-01-07 15:04:13.087 [main]logger-User go back on Home Page
+[INFO ]2023-01-07 15:04:13.320 [main]logger-Click on Register link
+[INFO ]2023-01-07 15:04:13.540 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:13.669 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:13.740 [main]logger-verify the warn message
+[WARN ]2023-01-07 15:04:13.790 [main]logger-Please fill out this field.
+[INFO ]2023-01-07 15:04:13.802 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:13.881 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:14.029 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:14.090 [main]logger-verify the warn message
+[WARN ]2023-01-07 15:04:14.126 [main]logger-Please fill out this field.
+[INFO ]2023-01-07 15:04:14.138 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:14.234 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:14.371 [main]logger-Enter password
+[INFO ]2023-01-07 15:04:14.508 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:14.572 [main]logger-verify the warn message
+[WARN ]2023-01-07 15:04:14.605 [main]logger-Please fill out this field.
+[INFO ]2023-01-07 15:04:14.616 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:14.709 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:14.853 [main]logger-Enter password
+[INFO ]2023-01-07 15:04:14.992 [main]logger-Enter confirm password
+[INFO ]2023-01-07 15:04:15.137 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:15.310 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:15.346 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-07 15:04:15.357 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:15.599 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:15.779 [main]logger-Enter password
+[INFO ]2023-01-07 15:04:15.952 [main]logger-Enter confirm password
+[INFO ]2023-01-07 15:04:16.120 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:16.286 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:16.321 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-07 15:04:16.334 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:16.445 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:16.597 [main]logger-Enter password
+[INFO ]2023-01-07 15:04:16.743 [main]logger-Enter confirm password
+[INFO ]2023-01-07 15:04:16.891 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:17.064 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:17.094 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-07 15:04:17.102 [main]logger-User is on Register Page
+[INFO ]2023-01-07 15:04:17.197 [main]logger-Enter User Name
+[INFO ]2023-01-07 15:04:17.337 [main]logger-Enter password
+[INFO ]2023-01-07 15:04:17.473 [main]logger-Enter confirm password
+[INFO ]2023-01-07 15:04:17.615 [main]logger-Click Register Button
+[INFO ]2023-01-07 15:04:17.770 [main]logger-verify the error message
+[WARN ]2023-01-07 15:04:17.798 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 09:49:47.586 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:48.045 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:48.133 [main]logger-verify the warn message
+[WARN ]2023-01-08 09:49:48.187 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 09:49:48.204 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:48.312 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:48.448 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:48.510 [main]logger-verify the warn message
+[WARN ]2023-01-08 09:49:48.553 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 09:49:48.563 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:48.643 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:48.789 [main]logger-Enter password
+[INFO ]2023-01-08 09:49:48.921 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:48.982 [main]logger-verify the warn message
+[WARN ]2023-01-08 09:49:49.017 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 09:49:49.033 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:49.118 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:49.254 [main]logger-Enter password
+[INFO ]2023-01-08 09:49:49.387 [main]logger-Enter confirm password
+[INFO ]2023-01-08 09:49:49.524 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:49.693 [main]logger-verify the error message
+[WARN ]2023-01-08 09:49:49.727 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 09:49:49.737 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:49.815 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:49.964 [main]logger-Enter password
+[INFO ]2023-01-08 09:49:50.104 [main]logger-Enter confirm password
+[INFO ]2023-01-08 09:49:50.254 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:50.411 [main]logger-verify the error message
+[WARN ]2023-01-08 09:49:50.441 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 09:49:50.450 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:50.537 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:50.685 [main]logger-Enter password
+[INFO ]2023-01-08 09:49:50.820 [main]logger-Enter confirm password
+[INFO ]2023-01-08 09:49:50.956 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:51.119 [main]logger-verify the error message
+[WARN ]2023-01-08 09:49:51.148 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 09:49:51.156 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:51.255 [main]logger-Enter User Name
+[INFO ]2023-01-08 09:49:51.426 [main]logger-Enter password
+[INFO ]2023-01-08 09:49:51.560 [main]logger-Enter confirm password
+[INFO ]2023-01-08 09:49:51.696 [main]logger-Click Register Button
+[INFO ]2023-01-08 09:49:51.841 [main]logger-verify the error message
+[WARN ]2023-01-08 09:49:51.873 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 09:49:51.928 [main]logger-User is on Register Page
+[INFO ]2023-01-08 09:49:52.048 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:24.434 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:24.852 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:24.929 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:00:24.986 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:00:25.007 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:25.134 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:25.268 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:25.332 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:00:25.373 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:00:25.389 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:25.505 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:25.657 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:25.795 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:25.854 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:00:25.888 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:00:25.899 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:26.006 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:26.149 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:26.287 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:26.420 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:26.593 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:26.628 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:00:26.644 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:26.727 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:26.870 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:27.013 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:27.161 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:27.333 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:27.362 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:00:27.373 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:27.460 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:27.604 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:27.743 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:27.881 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:28.033 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:28.062 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:00:28.069 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:28.167 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:28.334 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:28.469 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:28.615 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:28.786 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:28.818 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:00:28.824 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:29.821 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:29.972 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:30.107 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:30.240 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:30.387 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:30.417 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:00:30.430 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:00:30.557 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:00:30.699 [main]logger-Enter password
+[INFO ]2023-01-08 10:00:30.841 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:00:30.987 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:00:31.141 [main]logger-verify the error message
+[WARN ]2023-01-08 10:00:31.170 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:32.543 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:33.003 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:33.080 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:06:33.134 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:06:33.157 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:33.281 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:33.424 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:33.490 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:06:33.530 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:06:33.539 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:33.623 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:33.767 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:33.911 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:33.976 [main]logger-verify the warn message
+[WARN ]2023-01-08 10:06:34.010 [main]logger-Please fill out this field.
+[INFO ]2023-01-08 10:06:34.022 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:34.113 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:34.258 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:34.403 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:34.543 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:34.690 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:34.724 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:34.734 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:34.821 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:34.966 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:35.110 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:35.259 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:35.401 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:35.431 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:35.440 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:35.515 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:35.665 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:35.801 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:35.941 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:36.103 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:36.133 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:36.141 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:36.220 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:36.371 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:36.510 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:36.653 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:36.807 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:36.837 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:36.845 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:37.680 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:37.827 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:37.958 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:38.094 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:38.243 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:38.274 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:38.283 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:38.409 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:38.553 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:38.695 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:38.835 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:38.975 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:39.004 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:39.013 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:39.136 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:39.284 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:39.421 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:39.561 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:39.711 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:39.740 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-08 10:06:39.747 [main]logger-User is on Register Page
+[INFO ]2023-01-08 10:06:39.873 [main]logger-Enter User Name
+[INFO ]2023-01-08 10:06:40.012 [main]logger-Enter password
+[INFO ]2023-01-08 10:06:40.148 [main]logger-Enter confirm password
+[INFO ]2023-01-08 10:06:40.277 [main]logger-Click Register Button
+[INFO ]2023-01-08 10:06:40.443 [main]logger-verify the error message
+[WARN ]2023-01-08 10:06:40.471 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:02:49.029 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-09 06:02:49.483 [main]logger-User is on DS_Portal Page
+[INFO ]2023-01-09 06:02:49.578 [main]logger-User clicks on get started button
+[INFO ]2023-01-09 06:02:50.035 [main]logger-User is on Home Page
+[INFO ]2023-01-09 06:02:50.151 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-09 06:02:50.243 [main]logger-no of items in dropdown 6
+[INFO ]2023-01-09 06:02:50.262 [main]logger-no of get started buttons 7
+[WARN ]2023-01-09 06:02:50.563 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:50.851 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:51.123 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:51.403 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:51.689 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:51.962 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:52.244 [main]logger-You are not logged in
+[INFO ]2023-01-09 06:02:52.245 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:52.273 [main]logger-You are not logged in
+[INFO ]2023-01-09 06:02:52.275 [main]logger-User clicks on Data Structures Dropdown
+[INFO ]2023-01-09 06:02:52.365 [main]logger-no of items in dropdown 6
+[WARN ]2023-01-09 06:02:52.607 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:52.851 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:53.076 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:53.295 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:53.526 [main]logger-You are not logged in
+[WARN ]2023-01-09 06:02:53.790 [main]logger-You are not logged in
+[INFO ]2023-01-09 06:02:53.792 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:53.818 [main]logger-You are not logged in
+[INFO ]2023-01-09 06:02:53.819 [main]logger-Click on Sign in link
+[INFO ]2023-01-09 06:02:54.021 [main]logger-User go back on Home Page
+[INFO ]2023-01-09 06:02:54.248 [main]logger-Click on Register link
+[INFO ]2023-01-09 06:02:54.512 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:54.643 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:54.721 [main]logger-verify the warn message
+[WARN ]2023-01-09 06:02:54.766 [main]logger-Please fill out this field.
+[INFO ]2023-01-09 06:02:54.776 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:54.854 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:54.997 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:55.059 [main]logger-verify the warn message
+[WARN ]2023-01-09 06:02:55.098 [main]logger-Please fill out this field.
+[INFO ]2023-01-09 06:02:55.107 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:55.207 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:55.352 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:55.489 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:55.553 [main]logger-verify the warn message
+[WARN ]2023-01-09 06:02:55.588 [main]logger-Please fill out this field.
+[INFO ]2023-01-09 06:02:55.599 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:55.698 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:55.842 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:55.986 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:02:56.120 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:56.281 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:56.315 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:02:56.328 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:56.406 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:56.559 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:56.705 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:02:56.859 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:57.004 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:57.034 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:02:57.046 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:57.129 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:57.284 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:57.429 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:02:57.575 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:57.752 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:57.780 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:02:57.790 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:57.893 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:58.048 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:58.185 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:02:58.322 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:02:58.503 [main]logger-verify the error message
+[WARN ]2023-01-09 06:02:58.534 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:02:58.545 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:02:59.409 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:02:59.597 [main]logger-Enter password
+[INFO ]2023-01-09 06:02:59.727 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:02:59.860 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:03:00.000 [main]logger-verify the error message
+[WARN ]2023-01-09 06:03:00.032 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:03:00.044 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:03:00.173 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:03:00.315 [main]logger-Enter password
+[INFO ]2023-01-09 06:03:00.453 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:03:00.600 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:03:00.757 [main]logger-verify the error message
+[WARN ]2023-01-09 06:03:00.785 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:03:00.795 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:03:00.907 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:03:01.055 [main]logger-Enter password
+[INFO ]2023-01-09 06:03:01.196 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:03:01.340 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:03:01.499 [main]logger-verify the error message
+[WARN ]2023-01-09 06:03:01.527 [main]logger-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-01-09 06:03:01.535 [main]logger-User is on Register Page
+[INFO ]2023-01-09 06:03:01.674 [main]logger-Enter User Name
+[INFO ]2023-01-09 06:03:01.836 [main]logger-Enter password
+[INFO ]2023-01-09 06:03:01.971 [main]logger-Enter confirm password
+[INFO ]2023-01-09 06:03:02.109 [main]logger-Click Register Button
+[INFO ]2023-01-09 06:03:02.261 [main]logger-verify the error message
+[WARN ]2023-01-09 06:03:02.290 [main]logger-password_mismatch:The two password fields didn’t match.
